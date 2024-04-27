@@ -115,7 +115,6 @@ QuickAid is open source and available under the [Apache-2.0 license](LICENSE).
 
 
 - Thanks to everyone who visits and uses this page. Your interest and feedback are what keep us motivated.
-- Special thanks to all the contributors who help maintain and improve this project. Your dedication and hard work are greatly appreciated.
 ## Connect with Me
 
 Feel free to reach out and connect with me on [LinkedIn](https://www.linkedin.com/in/sherwinvishesh) or [Instagram](https://www.instagram.com/sherwinvishesh/).
