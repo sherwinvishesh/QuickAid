@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>QuickAid</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <h2>QuickAid</h2>
+    <div class="landing">
+        <div class="text-content">
+            <h1>Instantly Identify Injuries</h1>
+            <h1>from Images</h1>
+            <h1 class="desc">Get Accurate Descriptions</h1>
+            <h1 class="descbot">in Seconds</h1>
+            <button onclick="window.scrollTo({ top: document.querySelector('.main').offsetTop, behavior: 'smooth' })" class="scroll-btn">Analyze Now</button>
+        </div>
+        <div class="image-content">
+            <img src="{{ url_for('static', filename='aidoc.gif') }}" alt="Injury Image" class="injury">
+        </div>
+    </div>
+    <form method="post" enctype="multipart/form-data" class="main">
+        <h2>Upload Image</h2>
+        <label class="custom-file-upload">
+            <input type="file" name="image_file" accept="image/*" required onchange="updateImagePreview(this)">
+            <span id="file-name">Browse Images ⏏</span>
+        </label>
+        <br>
+        <div class="uploaded-image-container">
+            <img id="uploaded-image" class="uploaded-image">
+        </div>
+        <input type="submit" value="Generate" class="generate">
+    </form>
+
+    <footer>
+        <p>Made with ❤️ by Sherwin</p>
+    </footer>
+
+</body>
+</html>
+
+<script>
+    function updateFileName(input) {
+        const fileName = input.files[0].name;
+        document.getElementById('file-name').textContent = fileName;
+    }
+
+    function updateImagePreview(input) {
+        const file = input.files[0];
+        const reader = new FileReader();
+
+        reader.onload = function(event) {
+            const img = document.getElementById('uploaded-image');
+            img.src = event.target.result;
+        }
+
+        reader.readAsDataURL(file);
+    }
+</script>
