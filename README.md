@@ -112,8 +112,12 @@ QuickAid is open source and available under the [Apache-2.0 license](LICENSE).
 
 ## Acknowledgments
 
+- Immense gratitude to `Google AI Hackathon` for hosting the hackathon that served as a launching pad for QuickAid. Their commitment to nurturing innovation in the AI space has not only provided us with a platform to present our work but has also been a cornerstone of our development journey.
 
-- Thanks to everyone who visits and uses this page. Your interest and feedback are what keep us motivated.
+
+- Heartfelt thanks to all who visit and engage with QuickAid. Your interest, usage, and feedback are the driving forces behind our continuous improvement and innovation. We're committed to delivering value and enhancing your  experience, inspired by your support and insights.
+
+
 ## Connect with Me
 
 Feel free to reach out and connect with me on [LinkedIn](https://www.linkedin.com/in/sherwinvishesh) or [Instagram](https://www.instagram.com/sherwinvishesh/).
