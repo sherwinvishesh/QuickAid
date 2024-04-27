@@ -14,7 +14,7 @@ https://github.com/sherwinvishesh/QuickAid/assets/60791187/a60977d3-3e25-4fa9-8b
 
 ## Installation
 
-To run StrategX on your local machine, you need Python 3.6+ installed. Follow these steps:
+To run QuickAid on your local machine, you need Python 3.6+ installed. Follow these steps:
 
 1. Clone this repository to your local machine.
     ```bash
