@@ -1,6 +1,6 @@
 # QuickAid
 
-QuickAid is an advanced virtual first-aid tool capable of promptly identifying common injuries from uploaded images and providing corresponding treatment recommendations. This tool enhances the efficacy of initial medical responses by leveraging powerful AI technology to make quick and accurate assessments accessible to everyone.
+QuickAid is an advanced virtual first-aid tool capable of promptly identifying injuries from uploaded images and providing corresponding treatment recommendations. This tool enhances the efficacy of initial medical responses by leveraging powerful AI technology to make quick and accurate assessments accessible to everyone.
 
 ## Features
 - **Injury Identification**: Users can upload images of injuries, and QuickAid identifies them using advanced image recognition technology.
