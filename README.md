@@ -1,5 +1,8 @@
 # QuickAid
 
+![Static Badge](https://img.shields.io/badge/Google_AI_Hackathon-_Project_Submitted-blue)
+[![View on Devpost](https://img.shields.io/badge/View_Project-On%20Devpost-blue)](https://devpost.com/software/911v2)
+
 QuickAid is an advanced virtual first-aid tool capable of promptly identifying injuries from uploaded images and providing corresponding treatment recommendations. This tool enhances the efficacy of initial medical responses by leveraging powerful AI technology to make quick and accurate assessments accessible to everyone.
 
 ## Features
@@ -112,7 +115,7 @@ QuickAid is open source and available under the [Apache-2.0 license](LICENSE).
 
 ## Acknowledgments
 
-- Immense gratitude to `Google AI Hackathon` for hosting the hackathon that served as a launching pad for QuickAid. Their commitment to nurturing innovation in the AI space has not only provided us with a platform to present our work but has also been a cornerstone of our development journey.
+- Immense gratitude to `Google` for hosting the hackathon that served as a launching pad for QuickAid. Their commitment to nurturing innovation in the AI space has not only provided us with a platform to present our work but has also been a cornerstone of our development journey.
 
 
 - Heartfelt thanks to all who visit and engage with QuickAid. Your interest, usage, and feedback are the driving forces behind our continuous improvement and innovation. We're committed to delivering value and enhancing your  experience, inspired by your support and insights.
