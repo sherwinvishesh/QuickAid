@@ -1,6 +1,6 @@
-# Test Pics
+# Public
 
-This is the test pics folder, therse are the pictures I used as testing for the AI.
+This is the Public folder,  the pictures I used as testing for the AI are in the folder `test pics`.
 
 
 
