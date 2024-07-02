@@ -1,6 +1,7 @@
 # QuickAid
 
 ![Static Badge](https://img.shields.io/badge/Google_AI_Hackathon-_Project_Submitted-blue)
+![Static Badge](https://img.shields.io/badge/MedHacks_Season_2-_Project_Submitted-blue)
 [![View on Devpost](https://img.shields.io/badge/View_Project-On%20Devpost-blue)](https://devpost.com/software/911v2)
 
 QuickAid is an advanced virtual first-aid tool capable of promptly identifying injuries from uploaded images and providing corresponding treatment recommendations. This tool enhances the efficacy of initial medical responses by leveraging powerful AI technology to make quick and accurate assessments accessible to everyone.
@@ -135,8 +136,6 @@ QuickAid is an advanced virtual first-aid assistant designed to provide prelimin
 ### Points to Consider:
 
 - **Non-Professional Advice**: The information and recommendations provided by QuickAid are for informational purposes only and are not intended to replace or represent the professional judgment of healthcare providers in diagnosing and treating patients.
-  
-- **No Emergencies**: QuickAid is not designed to handle emergency situations. In the event of a severe injury or health condition, please contact your local emergency service provider immediately.
 
 - **Accuracy**: While we strive to provide accurate and up-to-date medical information, QuickAid cannot guarantee the correctness or completeness of the content available through the service.
 
